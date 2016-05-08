@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TicTacGame</string>
+    <string name="first_human">Player go first.</string>
+    <string name="turn_human">Player turn.</string>
+    <string name="turn_computer">System\'s turn.</string>
+    <string name="result_tie">It\'s a tie!</string>
+    <string name="result_human_wins">Player Won!</string>
+    <string name="result_android_wins">System Won!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Info</string>
+    <string name="human">Player:  </string>
+    <string name="ties">Ties:  </string>
+    <string name="android">System:  </string>
+</resources>
